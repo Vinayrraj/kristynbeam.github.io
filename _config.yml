@@ -14,7 +14,7 @@ twitter_username: swanbeams
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-kagami
+theme: jekyll-theme-kagami
 exclude:
   - Gemfile
   - Gemfile.lock
