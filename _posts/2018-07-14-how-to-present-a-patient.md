@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## This is my heading
 
@@ -7,4 +7,3 @@ published: false
 Tell me what I need to know
 
 ### This is my sub-heading
-
