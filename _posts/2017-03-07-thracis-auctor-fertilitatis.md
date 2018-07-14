@@ -2,14 +2,11 @@
 layout: post
 title: Thracis Auctor Fertilitatis
 tags: Lorem
-cover_url: https://s2.banana.moe/unsplash_colle/romain-vignes-53940.jpg
+cover_url: 'https://s2.banana.moe/unsplash_colle/romain-vignes-53940.jpg'
+published: true
 ---
 
-Lorem markdownum novum albenti: Iris Aiax inplicat, Palladis tu quo spectabere
-sonum, iampridem. Cedite o pedum inquit pro semianimem,
-[latitavimus](http://nonclamor.io/abut) meque:
-[ignis](http://meritoiacuit.net/micantessociis)! Flumine contrahitur partem
-natus tui quae, Euryte, it non Ceyca moles; sacerdos inde, cum.
+I made some changes using prose.io!
 
 - Quibus vita transtulit vertere pignus omnes iubet
 - Cristati fatum avertere et vultuque dicentem videtur
