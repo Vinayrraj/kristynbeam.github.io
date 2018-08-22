@@ -22,5 +22,3 @@ With that in mind, let me introduce myself. My name is Kristyn Beam. I am curren
 In this next phase of training, I am attempting to combine machine learning techniques and Neonatology to improve outcomes in infants. This really hasn't been done before, but I think with the available mentors in the Boston area, it could be a very exciting new field of research. 
 
 ###So here it is. My first blog post. Let's practice.
-
-
