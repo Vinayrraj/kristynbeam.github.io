@@ -12,7 +12,7 @@ published: true
 ---
 
 ## Kristyn Beam
-@swanbeams
+*@swanbeams
 
 Pediatrician.
 Neonatology Fellow, Harvard Neonatal Fellowship.
@@ -20,6 +20,5 @@ Interested in the intersection of epidemiology, machine learning, and improving 
 ________
 
 ![KBeam GitHub Headshot.png]({{site.baseurl}}/_posts/images/KBeam GitHub Headshot.png)
-
 
 __________
