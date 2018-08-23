@@ -18,4 +18,7 @@ Pediatrician.
 Neonatology Fellow, Harvard Neonatal Fellowship.
 Interested in the intersection of epidemiology, machine learning, and improving neonatal outcomes.
 
+twitter: @swanbeams
+
+
 
