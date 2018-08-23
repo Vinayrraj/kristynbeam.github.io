@@ -8,13 +8,18 @@ cover_meta: |
 position: 100
 navlevel: header
 navtitle: about
-published: true
+published: false
 ---
 
 ### Kristyn Beam
 @swanbeams
 
-![]({{site.baseurl}}/images/KBeam%20GitHub%20Headshot.png)
+<div class="featured">
+<a href="{{ page.url }}">
+<img src="{{site.url}}/images/KBeam%20GitHub%20Headshot.png" />
+</a>
+</div>
+
 __________
 
 Pediatrician.
