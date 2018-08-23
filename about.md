@@ -8,12 +8,10 @@ cover_meta: |
 position: 100
 navlevel: header
 navtitle: about
-published: false
+published: true
 ---
-
-
-![]({{site.baseurl}}//Screen%20Shot%202018-08-22%20at%202.14.12%20PM.png)
 ### Kristyn Beam
+![]({{site.baseurl}}//Screen%20Shot%202018-08-22%20at%202.14.12%20PM.png)
 
 Pediatrician.
 
@@ -22,6 +20,3 @@ Neonatology Fellow, Harvard Neonatal Fellowship.
 Interested in the intersection of epidemiology, machine learning, and improving neonatal outcomes.
 
 twitter: @swanbeams
-
-
-
