@@ -11,7 +11,8 @@ navtitle: about
 published: true
 ---
 ### Kristyn Beam
-![]({{site.baseurl}}//Screen%20Shot%202018-08-22%20at%202.14.12%20PM.png)
+![KBeam GitHub Headshot.png]({{site.baseurl}}/images/KBeam GitHub Headshot.png)
+
 
 Pediatrician.
 
