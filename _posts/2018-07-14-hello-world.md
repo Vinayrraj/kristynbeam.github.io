@@ -7,6 +7,8 @@ published: true
 
 ______________
 
+![]({{site.baseurl}}//Screen%20Shot%202018-08-22%20at%202.14.12%20PM.png)
+
 When I transitioned this year from fully clinical to a research focus, I had a couple of things on my "to-do list". However, this time around, it is with a focus on the future of my career rather than getting into the next residency or fellowship position, as it has always been before. Although obviously getting into residency and fellowship are components of my career, now that the basics of medical practice have been established, developing other strengths as part of my career is important. 
 
 ### one of these goals was to start a blog. 
