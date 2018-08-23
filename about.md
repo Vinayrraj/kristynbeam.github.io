@@ -13,8 +13,7 @@ published: true
 ![]({{site.baseurl}}/images/KBeam%20GitHub%20Headshot.png)
 
 ### Kristyn Beam
-
-
+__________
 
 Pediatrician.
 
