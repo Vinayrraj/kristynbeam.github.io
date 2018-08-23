@@ -19,7 +19,7 @@ Neonatology Fellow, Harvard Neonatal Fellowship.
 Interested in the intersection of epidemiology, machine learning, and improving neonatal outcomes.
 __________
 
-<img class="left" src="{{site.baseurl}}/_posts/images/KBeam GitHub Headshot.png/>
+<img class="left" src="![KBeam GitHub Headshot.png]{{site.baseurl}}/_posts/images/KBeam GitHub Headshot.png/>
 
 ![KBeam GitHub Headshot.png]({{site.baseurl}}/_posts/images/KBeam GitHub Headshot.png)
 
