@@ -14,7 +14,8 @@ published: true
 ### Kristyn Beam
 @swanbeams
 
-![]({{site.baseurl}}/images/KBeam%20GitHub%20Headshot.png)
+![KBeam GitHub Headshot.png]({{site.baseurl}}/_posts/images/KBeam GitHub Headshot.png)
+
 
 __________
 
