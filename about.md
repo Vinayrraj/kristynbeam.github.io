@@ -13,6 +13,9 @@ published: true
 
 All about me!
 
-The theme was firstly designed for <https://banana.moe> in late 2016 and have it's first release in March 2017 with a whole bunch of big changes in both design and implementation.
+Kristyn Beam
+Pediatrician.
+Neonatology Fellow, Harvard Neonatal Fellowship.
+Interested in the intersection of epidemiology, machine learning, and improving neonatal outcomes.
 
-Visit [project home](https://github.com/kamikat/jekyll-theme-kagami) for source code and installation guides.
+
