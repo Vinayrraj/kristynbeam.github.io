@@ -14,11 +14,7 @@ published: false
 ### Kristyn Beam
 @swanbeams
 
-<div class="featured">
-<a href="{{ page.url }}">
-<img src="{{site.url}}/images/KBeam%20GitHub%20Headshot.png" />
-</a>
-</div>
+![]({{site.baseurl}}/images/KBeam%20GitHub%20Headshot.png)
 
 __________
 
