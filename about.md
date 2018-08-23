@@ -17,7 +17,9 @@ published: true
 Pediatrician.
 Neonatology Fellow, Harvard Neonatal Fellowship.
 Interested in the intersection of epidemiology, machine learning, and improving neonatal outcomes.
+
 __________
 
 ![KBeam GitHub Headshot]({{site.baseurl}}/_posts/images/KBeam GitHub Headshot.png)
-__________
+
+________
