@@ -10,8 +10,10 @@ navlevel: header
 navtitle: about
 published: true
 ---
+![]({{site.baseurl}}/images/KBeam%20GitHub%20Headshot.png)
+
 ### Kristyn Beam
-![KBeam GitHub Headshot.png]({{site.baseurl}}/images/KBeam GitHub Headshot.png)
+
 
 
 Pediatrician.
