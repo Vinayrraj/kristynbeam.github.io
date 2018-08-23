@@ -11,7 +11,7 @@ navtitle: about
 published: true
 ---
 
-### Kristyn Beam
+## Kristyn Beam
 @swanbeams
 ________
 
