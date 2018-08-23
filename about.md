@@ -11,10 +11,10 @@ navtitle: about
 published: true
 ---
 
-![]({{site.baseurl}}/images/KBeam%20GitHub%20Headshot.png)
-
 ### Kristyn Beam
 @swanbeams
+
+![]({{site.baseurl}}/images/KBeam%20GitHub%20Headshot.png)
 __________
 
 Pediatrician.
