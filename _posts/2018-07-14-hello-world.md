@@ -7,7 +7,7 @@ published: true
 
 <div class="featured">
 <a href="{{ page.url }}">
-<img src="{{site.url}}/images/ />
+<img src="{{site.url}}/images/KBeam GitHub Headshot.png/>
 </a>
 </div>
 
