@@ -11,9 +11,10 @@ navtitle: about
 published: true
 ---
 
-All about me!
 
-Kristyn Beam
+
+### Kristyn Beam
+
 Pediatrician.
 Neonatology Fellow, Harvard Neonatal Fellowship.
 Interested in the intersection of epidemiology, machine learning, and improving neonatal outcomes.
