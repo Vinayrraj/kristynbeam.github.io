@@ -8,7 +8,7 @@ cover_meta: |
 position: 100
 navlevel: header
 navtitle: about
-published: false
+published: true
 ---
 
 ## Kristyn Beam
