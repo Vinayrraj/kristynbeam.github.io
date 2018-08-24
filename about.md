@@ -8,9 +8,7 @@ navtitle: about
 published: true
 ---
 
-#![KBeam GitHub Headshot]({{site.baseurl}}/KBeam GitHub Headshot.png)
-
-<img src="https://github.com/kristynbeam/kristynbeam.github.io/blob/master/KBeam%20GitHub%20Headshot.png" width="200"/>
+<img src="https://github.com/kristynbeam/kristynbeam.github.io/blob/master/KBeam%20GitHub%20Headshot.png" width="100"/>
 
 ## Kristyn Beam
 *@swanbeams*
