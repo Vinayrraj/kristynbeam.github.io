@@ -20,7 +20,6 @@ Interested in the intersection of epidemiology, machine learning, and improving 
 
 __________
 
-<img class="left" src="{{site.baseurl}}/images/KBeam GitHub Headshot.png />
 
 ![KBeam GitHub Headshot]({{site.baseurl}}/_posts/images/KBeam GitHub Headshot.png)
 
