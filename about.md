@@ -8,7 +8,7 @@ navtitle: about
 published: true
 ---
 
-<img src="https://github.com/kristynbeam/kristynbeam.github.io/blob/master/KBeam%20GitHub%20Headshot.png" width="250"/>
+<img src="https://github.com/kristynbeam/kristynbeam.github.io/blob/master/KBeam%20GitHub%20Headshot.png" width="200"/>
 
 ## Kristyn Beam
 *@swanbeams*
