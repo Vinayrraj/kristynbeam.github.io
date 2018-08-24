@@ -12,6 +12,8 @@ github_username: kristybeam
 twitter_username: swanbeams
 instagram_username: kamikat_bot
 
+remote_theme: kamikat/jekyll-theme-kagami
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-kagami
