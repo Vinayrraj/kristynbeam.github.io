@@ -8,7 +8,7 @@ navtitle: about
 published: true
 ---
 
-<img src="KBeam%20GitHub%20Headshot.png" width="250">
+![KBeam GitHub Headshot]({{site.baseurl}}/KBeam GitHub Headshot 200.png)
 
 ## Kristyn Beam
 *@swanbeams*
