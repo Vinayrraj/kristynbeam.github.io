@@ -8,7 +8,6 @@ navtitle: about
 published: true
 ---
 ## Kristyn Beam
-
 ![KBeam GitHub Headshot]({{site.baseurl}}/KBeam GitHub Headshot 200.png)
 
 *@swanbeams*
