@@ -10,7 +10,7 @@ lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
 github_username: kristybeam
 twitter_username: swanbeams
-instagram_username: kamikat_bot
+#instagram_username: kamikat_bot
 
 remote_theme: kamikat/jekyll-theme-kagami
 
